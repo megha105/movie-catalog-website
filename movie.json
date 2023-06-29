@@ -9,7 +9,7 @@
     "type": "series",
     "url": "the boys.html",
     "trailer": "the boys trailer.mp4",
-    "low": "video/theboys.webm",
+    "low": "video/theboys.mp4",
     "medium": "video/the boys 720ph.mp4",
     "high": "video/the boys 1080ph.mp4"
 }, {
@@ -50,7 +50,7 @@
     "genre": "Action",
     "type": "movie",
     "url": "jurassic world.html",
-    "trailer": "jurasic world.webm",
+    "trailer": "jurasic world.mp4",
     "low": "video/jurasic world.webm",
     "medium": "video/jurassic world 720ph.mp4",
     "high": "video/jurassic world 1080ph.mp4"
